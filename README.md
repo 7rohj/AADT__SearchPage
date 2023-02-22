@@ -2,6 +2,7 @@
 
 # 완성 페이지 🙊😲👀
 
+node.js 는 서버 배포 어케 하는겨.. 복잡하네..
 ![result3](https://user-images.githubusercontent.com/99319638/220553816-ce50ef1f-861d-4979-b7ed-ef8960665d2d.png)
 
 
