@@ -5,6 +5,11 @@
 node.js 는 서버 배포 어케 하는겨.. 복잡하네..
 ![result3](https://user-images.githubusercontent.com/99319638/220553816-ce50ef1f-861d-4979-b7ed-ef8960665d2d.png)
 
+```
+npm init
+npm install express
+npm install ejs
+```
 
 ```
 서안산 고속도로에서의 매송 IC와 영동고속도로에서의 서안산 IC 에서의 
